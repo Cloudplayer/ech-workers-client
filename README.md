@@ -15,8 +15,8 @@
 
 从 [https://github.com/duquancai/ech-workers](https://github.com/duquancai/ech-workers) 仓库下载最新版本：ech-win.exe 和 _worker.js。<br>
 ech-win.exe文件与本图形用户界面ech-win-gui.exe文件存放于一个文件夹内。<br>
-只需要运行图形用户界面ech-win-gui.exe文件即可。<br>
 _worker.js用于CF上进行部署，workers、pages、snippets三种部署都适用。<br>
+只需要运行图形用户界面ech-win-gui.exe文件即可。<br>
 
 
 ![使用图例](/image/1.png)
