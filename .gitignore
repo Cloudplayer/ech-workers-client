@@ -1,0 +1,85 @@
+# ========================
+# C/C++ 项目 .gitignore
+# ========================
+
+# 编译生成文件
+*.o
+*.obj
+*.ko
+*.elf
+*.exe
+*.out
+*.app
+*.i
+*.ii
+*.s
+*.so
+*.so.*
+*.dylib
+
+# 静态库
+*.lib
+*.a
+*.la
+*.lo
+
+# 共享对象 (Linux)
+*.dll
+*.dll.a
+
+# 调试符号
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# 内核模块编译输出
+*.mod.c
+*.mod.o
+*.order
+*.symvers
+
+# 临时文件
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.temp
+
+# 预编译头文件
+*.gch
+*.pch
+
+# 其他编译中间文件
+*.lai
+*.lto
+*.gcno
+*.gcda
+
+# 构建目录
+build/
+dist/
+out/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+.vs/
+*.vcxproj.user
+
+# IDE 文件
+.vscode/
+.idea/
+*.code-workspace
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.db
